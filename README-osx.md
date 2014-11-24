@@ -35,6 +35,8 @@ Warning: This is in beta. But I'm curious whether it works better than Eclipse.
 
 https://developer.android.com/sdk/installing/studio.html
 
+(The download button below eventually worked, but not on the first few tries. Weird.)
+
 ![Download](./android-studio-download.png)
 
 
