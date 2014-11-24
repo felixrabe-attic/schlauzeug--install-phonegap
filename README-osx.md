@@ -69,7 +69,7 @@ http://nodejs.org/
 -   http://phonegap.com/
 -   http://cordova.apache.org/
 
-I decided based on the available information to go with PhoneGap.
+I decided based on the available information to go with PhoneGap which wraps Cordova.
 
 
 ## Links
