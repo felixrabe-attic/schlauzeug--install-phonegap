@@ -60,7 +60,7 @@ http://nodejs.org/
 (Note: Run `phonegap help` for more information on the command.)
 
 
-# Background
+# More resources
 
 
 ## PhoneGap vs Cordova
